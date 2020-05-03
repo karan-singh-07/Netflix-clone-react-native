@@ -1,6 +1,6 @@
 # **Overview**
 
-![Preview](https://github.com/matheusmichels/netflix-clone/blob/master/src/assets/images/screenshot.jpg)
+![Preview](https://github.com/karan-singh-07/netflix-clone/blob/master/src/assets/images/screenshot.jpg)
 
 <h3 align="center">
 <b>A Netflix app clone made with React Native ⚛</b>
@@ -22,7 +22,7 @@ Download [Android .apk installer](https://drive.google.com/file/d/10inawU47moywz
 - Clone repository and install dependencies:
 
 ```bash
-$ git clone https://github.com/matheusmichels/netflix-clone.git
+$ https://github.com/karan-singh-07/Netflix-clone-react-native.git
 $ cd netflix-clone
 $ yarn global add react-native-cli
 $ yarn
